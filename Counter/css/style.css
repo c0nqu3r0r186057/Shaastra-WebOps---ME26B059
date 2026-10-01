@@ -1,0 +1,25 @@
+#increase, #decrease, #reset{
+    padding:10px 15px;
+    font-size: 100px;
+    background-color: rgb(17, 3, 27) ;
+    color: rgb(200, 236, 236);
+    border: none;
+    margin: 5px;
+    border-radius: 20px;
+}
+
+#main{
+    margin: auto;
+    text-align: center;
+    padding: 5%, 10%;
+}
+
+#Counter{
+    font-size: 100px;
+    font-family: impact;
+    color:darkcyan
+}
+
+body{
+    background-color:rgb(57, 4, 109);
+}
